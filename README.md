@@ -1,4 +1,0 @@
-Demo
-====
-
-First demo repository
